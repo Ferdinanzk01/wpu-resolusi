@@ -2,3 +2,5 @@ wpu reoslusi
 ini percobaan dalam repository 
 rencana kedepan akan penggunaan github
 file selesai dibuat
+penambahan abcdef
+penambahan 01234
